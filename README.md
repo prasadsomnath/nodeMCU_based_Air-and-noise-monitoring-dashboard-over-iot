@@ -1,2 +1,2 @@
-# nodeMCU_based_Air-and-noise-monitoring-dashboard-over-iot
+# NodeMCU_Based_Air-and-Noise-Monitoring-Dashboard-Over-IoT
 academic project
