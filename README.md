@@ -55,11 +55,6 @@ To develop a low-cost, wireless system capable of monitoring air pollution (gas 
 5. Alerts are triggered via IFTTT if values cross thresholds.
 
 ---
-
-## 🔌 Circuit Diagram
-
-> 📷 daigram.png
-
 ## 📊 Cloud Dashboard
 The project uses **Adafruit IO** to create a visually rich dashboard:
 - Gauge for air quality index (AQI)
@@ -104,4 +99,16 @@ IFTTT (Sends alerts)
 - Lightweight and wireless setup using Wi-Fi
 
 ---
+📂 File Structure
+NodeMCU_Air-Noise-Monitoring/
+├── code                          # Arduino code
+├── Dashboard_Screenshot.png     # Adafruit IO Dashboard (add this image)
+├── Project report                   # Project report
+├── README.md                    # Project guide
+
+🔮 Future Upgrades
+- Use DHT11/DHT22 for temperature & humidity
+- Integrate Google Sheets logging
+- Add mobile app support using Blynk or MIT App Inventor
+- direct sending air level and noise level message to particular authority through a email 
 
